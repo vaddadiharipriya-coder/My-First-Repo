@@ -1,3 +1,4 @@
 Vaddadi Hari Priya
 3rd CsA
- I have learnt how to create an account in GitHub and Creating a new repository in GitHub.
+I have learnt how to upload a file in repository.
+I have learnt how to create an account in GitHub and Creating a new repository in GitHub.
